@@ -1,0 +1,24 @@
+{
+  "name": "sewer-scum-episode-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project_dict.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winkingcatstudio/sewer-scum-episode-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/winkingcatstudio/sewer-scum-episode-generator/issues"
+  },
+  "homepage": "https://github.com/winkingcatstudio/sewer-scum-episode-generator#readme",
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
